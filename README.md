@@ -62,12 +62,12 @@ Wszystkie arkusze z plikami, które udało mi się znaleźć.
   - 03 (**PHP**) - Zawody wędkarskie [ee09_2019_06_03](ee09_2019_06_03)
   - 04 (**JS**) - Pomocnik matematyczny [ee09_2019_06_04](ee09_2019_06_04)
   - 05 (**JS**) - Ciągi liczbowe [ee09_2019_06_05](ee09_2019_06_05)
-  - 06 (**PHP**) - Pogotowie hydrauliczne [ee09_2019_06_06](ee09_2019_06_06)
+  - 06 (**PHP**) - Pogotowie Ratunkowe [ee09_2019_06_06](ee09_2019_06_06)
 ### 2020
 - Styczeń
-  - 01 (**PHP**) - Portal dla wędkarzy 
-  - 02 (**JS**) - Stacja paliw 
-  - 03 (**PHP**) - Prognoza pogody 
+  - 01 (**PHP**) - Portal dla wędkarzy [ee09_2020_01_01](ee09_2020_01_01)
+  - 02 (**JS**) - Stacja paliw [ee09_2020_01_02](ee09_2020_01_02)
+  - 03 (**PHP**) - Prognoza pogody [ee09_2020_01_03](ee09_2020_01_03)
 - Czerwiec
   - 01 (**PHP**) - Internetowy organizer [ee09_2020_06_01](ee09_2020_06_01)
   - 02 (**PHP**) - Biuro podróży [ee09_2020_06_02](ee09_2020_06_02)
@@ -101,7 +101,7 @@ Wszystkie arkusze z plikami, które udało mi się znaleźć.
 ## INF.03
 ### 2021
 - Czerwiec
-  - 01 (**PHP**) - Restauracja Wszystkie Smaki [inf03_2021_06_01](inf03_2020_06_01)
+  - 01 (**PHP**) - Restauracja Wszystkie Smaki [inf03_2021_06_01](inf03_2021_06_01)
 ### 2022
 - Styczeń
   - 01 (**PHP**) - Restauracja Wszystkie Smaki [inf03_2022_01_01](inf03_2022_01_01)
