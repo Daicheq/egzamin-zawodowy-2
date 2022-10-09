@@ -96,7 +96,7 @@ Wszystkie arkusze z plikami, które udało mi się znaleźć.
   - 04 (**PHP**) - Forum wielbicieli psów i kotów [ee09_2022_01_04](ee09_2022_01_04)
   - 05 (**PHP**) - Portal społecznościowy [ee09_2022_01_05](ee09_2022_01_05)
   - 06 (**JS**) - Konfugurator stylów CSS [ee09_2022_01_06](ee09_2022_01_06)
-  - 07 (**JS**) - Galeria zdjęć [ee09_2020_01_07](ee09_2022_01_07)
+  - 07 (**JS**) - Galeria zdjęć [ee09_2022_01_07](ee09_2022_01_07)
 
 ## INF.03
 ### 2021
